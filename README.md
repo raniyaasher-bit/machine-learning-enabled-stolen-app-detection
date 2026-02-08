@@ -6,6 +6,7 @@ The model analyzes application data and predicts whether an app is genuine or su
 
 ## Technologies Used
 - Python
+- Anacinda Prompt
 - Jupyter Notebook
 - Pandas
 - NumPy

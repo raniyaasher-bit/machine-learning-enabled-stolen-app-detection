@@ -29,6 +29,8 @@ The model is able to classify applications based on the given features and helps
 
 ## Screenshots
 ![Main Code](app_py_code.png)
+![Traning logic](ipynb_code1.png)
+![Program Result](ipynb_code2.png)
 
 ## Future Improvements
 - Use a larger dataset

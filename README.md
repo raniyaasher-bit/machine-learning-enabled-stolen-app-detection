@@ -36,3 +36,6 @@ The model is able to classify applications based on the given features and helps
 - Use a larger dataset
 - Try other machine learning algorithms
 - Improve accuracy and feature selection
+
+- ## Clone the Repository
+- 

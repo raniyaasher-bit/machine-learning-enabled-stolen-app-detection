@@ -38,4 +38,3 @@ The model is able to classify applications based on the given features and helps
 - Improve accuracy and feature selection
 
 - ## Clone the Repository
-- 

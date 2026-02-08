@@ -27,6 +27,9 @@ The model analyzes application data and predicts whether an app is genuine or su
 ## Result
 The model is able to classify applications based on the given features and helps in identifying suspicious or stolen apps.
 
+## Screenshots
+![Main Code](app_py_code.png)
+
 ## Future Improvements
 - Use a larger dataset
 - Try other machine learning algorithms

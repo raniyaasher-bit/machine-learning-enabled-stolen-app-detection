@@ -13,6 +13,9 @@ The model analyzes application data and predicts whether an app is genuine or su
 - Scikit-learn
 - Decision Tree Algorithm
 
+- ## My Role
+- I worked on data cleaning, model training, testing results, and documentation, and learned how machine learning can be applied to real-world  problems.
+
 ## How the Project Works
 1. Data is collected and cleaned.
 2. Important features are selected from the dataset.
@@ -37,4 +40,4 @@ The model is able to classify applications based on the given features and helps
 - Try other machine learning algorithms
 - Improve accuracy and feature selection
 
-- ## Clone the Repository
+  

@@ -25,7 +25,7 @@ The model analyzes application data and predicts whether an app is genuine or su
 ## How to Clone and Run
 1. Clone the repository using the command below:
    git clone https://github.com/raniyaasher-bit/machine-learning-enabled-stolen-app-detection.git
-   2. Open the project in Jupyter Notebook or any Python IDE.  
+2. Open the project in Jupyter Notebook or any Python IDE.  
 3. Install required libraries.  
 4. Run the notebook or Python file to see the output.
 

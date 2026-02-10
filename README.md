@@ -22,6 +22,10 @@ The model analyzes application data and predicts whether an app is genuine or su
 3. A Decision Tree model is trained on the data.
 4. The trained model is used to classify applications.
 
+## How to Clone and Run
+1. Clone the repository using the command below:
+   git clone
+
 ## Challenges Faced
 Understanding the dataset and training the machine learning model correctly was challenging at first, but I learned by practicing and experimenting.
 
